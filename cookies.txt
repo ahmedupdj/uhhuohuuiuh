@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.pg.sa	TRUE	/	FALSE	1999999999	__cfduid	d5f0ee54a4857c68d6d9d38aedff43fa11555685296
+probot.pg.sa	TRUE	/	FALSE	1999999999	PHPSESSID	g1sosbjdpm3n2893o6ucqvjdu5
+
